@@ -1,0 +1,23 @@
+{
+  "name": "idslatam-auth",
+  "version": "1.0.0",
+  "description": "\"Autenticacion de IDS\"",
+  "main": "index.ts",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosmel-Merlo/IDSLatam-Auth.git"
+  },
+  "author": "Rosmel Merlo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rosmel-Merlo/IDSLatam-Auth/issues"
+  },
+  "homepage": "https://github.com/Rosmel-Merlo/IDSLatam-Auth#readme"
+}
